@@ -1,0 +1,13 @@
+usage:python3 app.py  ip_range {hızlı,ayrıntılı}
+
+Ağ Tarama Uygulaması
+
+positional arguments:
+  ip_range              Hedef IP adresini girin (tek bir IP veya IP aralığı)
+  {hızlı,ayrıntılı}     Tarama türünü seçin (hızlı veya ayrıntılı)
+
+options:
+  -h, --help            show this help message and exit
+  -o OUTPUT, --output OUTPUT
+                        Sonuçları bir dosyaya kaydet
+ 
